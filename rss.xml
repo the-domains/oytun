@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[oytun]]></title>
+        <description><![CDATA[oytun]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 27 Mar 2016 16:15:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Kırık Hayaller]]></title>
+            <description><![CDATA[<article><h1>Kırık Hayaller</h1><p>Hayaldin, Rüyaydın
+Hedeftin, gerçektin, Amaçtın, araçtın, 
+İnançtın, tutkuydun,
+Aklıma gelen herşeydin,
+Güzeldin, çirkinleştin,
+Güzel sözken küfür oldun,
+Sevgiydin nefret oldun,
+Huzur dediğin bitti yok oldun,
+Kibrine yenilen vicdan,
+Hiç durmadı bir an,
+Hata üstüne hata yaptıkça
+Bitirdin kendini beni bizi
+Adımı anma bir daha
+Boğdu cellatlar sevgimizi...
+Doğdu umut yeniden...
+Teşekkürler hatalar
+Beni bana bırakanlar
+
+
+Bitti yürümedi,
+Gerçek sevgi bile yetmedi,
+Sonu hüsran, hazan,
+Doğmuyor güneş bazen,
+Dua etmek tek çaren,
+Aç ellerini dua et şükret
+Cunku Yok olmaya namzet
+Dunya Erkeklerin dünyası cok net
+Aramızdaki tek fark cinsiyet fakat
+Kadınlar olmuş erkek, kalmış farkımız cinsel organ tek
+Sıfır anlayış sıfır tolerans hep bir balans  terazi dengede pek az, sonu takas al gulum ver gulum
+Senin sandığın her an
+Sana ait değil zinhar
+Herşey iyi oldugu an
+Bir musibet iyidir bin nasihattan 
+</p></article>]]></description>
+            <link>undefinedkirik-hayaller/index.html</link>
+            <guid isPermaLink="false">5ae02652-806b-4282-8f4c-cf5e06ea64f2</guid>
+            <pubDate>Sun, 27 Mar 2016 16:15:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
